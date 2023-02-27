@@ -1,0 +1,8 @@
+driver.findElemnetBy.id
+driver.findElemnetBy.name
+driver.findElemnetBy.class
+driver.findElemnetBy.TagName
+driver.findElemnetBy.Linktext
+driver.findElemnetBy.PartialLinkText
+driver.findElemnetBy.CssSelector
+driver.findElemnetBy.Xpath

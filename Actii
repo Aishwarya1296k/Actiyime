@@ -8,3 +8,6 @@ driver.findElemnetBy.PartialLinkText
 driver.findElemnetBy.CssSelector
 driver.findElemnetBy.Xpath
 
+driver.manage().window().maximaze()
+driver.manage().timeouts().implicitlywait(duration.of seconds(10))
+

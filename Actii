@@ -1,6 +1,5 @@
-All Types Of Locators
+ Types Of Locators
 
-driver.findElemnetBy.id
 driver.findElemnetBy.name
 driver.findElemnetBy.class
 driver.findElemnetBy.TagName
